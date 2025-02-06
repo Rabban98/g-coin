@@ -1,0 +1,13 @@
+Terms of Service
+
+1. Välkommen
+Välkommen till vår Discord-bot! Genom att använda vår tjänst godkänner du dessa villkor.
+
+2. Användning
+Vår bot är avsedd för underhållning och belöningar baserat på interaktioner på sociala medier. Vi garanterar inte att tjänsten alltid är tillgänglig.
+
+3. Ansvar
+Vi ansvarar inte för eventuella fel eller problem som uppstår vid användning av vår bot.
+
+4. Ändringar
+Vi förbehåller oss rätten att ändra dessa villkor när som helst.

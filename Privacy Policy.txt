@@ -1,0 +1,13 @@
+Privacy Policy
+
+1. Integritet
+Vi samlar in minimal data från användare, inklusive Discord-användarnamn och TikTok-användarnamn, för att fungera som en del av vår tjänst.
+
+2. Dataanvändning
+Dina uppgifter används endast för att hantera interaktioner och belöningar i vår bot.
+
+3. Delning av Data
+Vi delar inte dina uppgifter med tredje part utan ditt samtycke.
+
+4. Kontakt
+För frågor om integritet, kontakta oss på [din kontaktinformation].
